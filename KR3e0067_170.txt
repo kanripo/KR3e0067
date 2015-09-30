@@ -1,0 +1,9 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 普濟方
+#+DATE: 2015-08-24 23:06:49.732913
+#+PROPERTY: ID KR3e0067
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [卷一百七十考證]
+<pb:KR3e0067_WYG_170-1a>¶
+　　謹案卷一百七十第四頁前一行若金瘡誤入生¶
+　　　水原本入訛分今改¶
